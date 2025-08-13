@@ -1,0 +1,1 @@
+# OpenSearch-on-AWS-Managed-vs-EC2
