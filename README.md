@@ -141,11 +141,11 @@ ec2_security_group_ids = ["sg-0d8ff210281e0425c"]
 ec2_name_prefix        = "opensearch"
 
 ec2_tags = {
-  "application:name"       = "opensearch"
-  "operations:team"        = "sre"
-  "application:owner"      = "plat"
-  "automation:environment" = "nonprod"
-  "automation:backup"      = "daily7"
+  "name"       = "opensearch"
+  "team"        = "sre"
+  "owner"      = "plat"
+  "environment" = "nonprod"
+  "backup"      = "daily7"
 }
 
 # EBS data volume
